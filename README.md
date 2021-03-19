@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="github.com" width="22px" src="https://github.com/piercerhymes" />](https://github.com/piercerhymes)
+[<img align="left" alt="github.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://github.com/piercerhymes)
 [<img align="left" alt="piercerhymes | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/piercerhymes)
 [<img align="left" alt="piercedsouza | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/piercedsouza/)
 [<img align="left" alt="piercerhymes | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/piercedsouza/)
