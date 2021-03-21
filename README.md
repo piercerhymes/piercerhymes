@@ -1,7 +1,7 @@
 ### Hi there, I'm Pierce  👋
 
 
-## I'm a Web Developer currently !!
+## I'm into IT !!
 
 - 🔨🔧 I’m currently on Web Applications.
 -   ⌛  When not coding I like playing chess and football.   
