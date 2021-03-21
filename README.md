@@ -3,7 +3,7 @@
 
 ## I'm into IT !!
 
-- 🔨🔧 I’m currently on Web Applications.
+- 🔨🔧 I’m currently on Networks as well as Web Applications.
 -   ⌛  When not coding I like playing chess and football.   
 -   🥅 2021 Goals: ;) Sorry best kept secret .
 
