@@ -1,7 +1,7 @@
 ### Hi there, I'm Pierce  👋
 
 
-## I'm into IT !!
+## I'm into IT (obviously)!!
 
 - 🔨🔧 I’m currently on Networks as well as Web Applications.
 -   ⌛  When not coding I like playing chess and football.   
