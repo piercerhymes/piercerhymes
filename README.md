@@ -41,9 +41,4 @@
 
 
 
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Pierce's GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=piercerhymes&show_icons=true&hide_border=true" />
-
-
-
+  
