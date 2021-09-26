@@ -6,7 +6,7 @@
 - 🔨🔧 I’m currently on Devops, Network and security.
 -   🔧 Occasionally I like participating in coding contests.
 -   ⌛  When not coding I like playing chess and football.   
--   🥅 2021 Goals: ;) Sorry best kept secret .
+-   🥅 2021 Goals: :)
 
 
 
