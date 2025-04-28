@@ -3,7 +3,7 @@
 
 ## Developer!
 
-- 🔨🔧 developer, Cloud, Devops, Ethical Hacker.
+- 🔨🔧 developer, Ethical Hacker. JOAT.
 -   🔧 Occasionally I like participating in coding contests.
 -   ⌛  When not coding I like playing chess and football.   
 
