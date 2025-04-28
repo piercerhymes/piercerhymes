@@ -3,7 +3,7 @@
 
 ## Developer!
 
-- 🔨🔧 Software developer, Cloud, Devops.
+- 🔨🔧 developer, Cloud, Devops, Ethical Hacker.
 -   🔧 Occasionally I like participating in coding contests.
 -   ⌛  When not coding I like playing chess and football.   
 
